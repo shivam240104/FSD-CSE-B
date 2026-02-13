@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #1f1f1f, #2c2c2c);
+  color: white;
+}
+
+.home-container {
+  margin-top: 100px; /* pushes content below fixed navbar */
+  text-align: center;
+  padding: 40px;
+}
+
+.logo {
+  width: 200px;
+  margin-bottom: 20px;
+}
